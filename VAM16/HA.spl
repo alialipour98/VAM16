@@ -1,0 +1,7 @@
+[Inputs]
+A
+B
+[Outputs]
+Cout
+Sum
+[BiDir]

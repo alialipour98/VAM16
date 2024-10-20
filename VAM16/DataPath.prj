@@ -1,0 +1,4 @@
+vhdl work "Register_16Bit.vhd"
+vhdl work "MUX_8Bit_2_to_1.vhd"
+vhdl work "Detect_1.vhd"
+vhdl work "DataPath.vhd"

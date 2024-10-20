@@ -1,0 +1,1 @@
+vhdtdtfi -prj Examples_2 -o C:/Users/User/Documents/ISE_Project/Examples_2/Controller.vhi -module Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Controller.vhd 

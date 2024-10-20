@@ -1,0 +1,2 @@
+vhdl isim_temp "CAT_Reg.vhd"
+vhdl isim_temp "CAT_Reg_tb.vhd"

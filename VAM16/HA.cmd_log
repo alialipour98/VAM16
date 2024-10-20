@@ -1,0 +1,3 @@
+vhdtdtfi -lib work HA.vhd -prj Examples_2 -o HA.spl -module HA -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 HA.spl C:/Users/User/Documents/ISE_Project/Examples_2/HA.sym 
+vhdtdtfi -prj Examples_2 -o C:/Users/User/Documents/ISE_Project/Examples_2/HA.vhi -module HA -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work HA.vhd 

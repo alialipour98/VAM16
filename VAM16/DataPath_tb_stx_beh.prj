@@ -1,0 +1,5 @@
+vhdl isim_temp "Register_16Bit.vhd"
+vhdl isim_temp "MUX_8Bit_2_to_1.vhd"
+vhdl isim_temp "Detect_1.vhd"
+vhdl isim_temp "DataPath.vhd"
+vhdl isim_temp "DataPath_tb.vhd"

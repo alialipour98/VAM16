@@ -1,0 +1,1 @@
+vhdtdtfi -prj Examples_2 -o C:/Users/User/Documents/ISE_Project/Examples_2/MUX_8Bit_2_to_1.vhi -module MUX_8Bit_2_to_1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work MUX_8Bit_2_to_1.vhd 

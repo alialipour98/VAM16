@@ -1,0 +1,2 @@
+vhdl isim_temp "Register_16Bit.vhd"
+vhdl isim_temp "Reg_16Bis_tb.vhd"

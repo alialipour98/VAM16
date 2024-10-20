@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/User/Documents/ISE_Project/Examples_2/VAM16_tb_isim_beh.exe" -prj "C:/Users/User/Documents/ISE_Project/Examples_2/VAM16_tb_beh.prj" "work.VAM16_tb" 

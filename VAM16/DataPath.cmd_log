@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.xst" -ofn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.xst" -ofn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.xst" -ofn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.xst" -ofn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.xst" -ofn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.xst" -ofn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.xst" -ofn "C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.syr" 
+vhdtdtfi -prj Examples_2 -o C:/Users/User/Documents/ISE_Project/Examples_2/DataPath.vhi -module DataPath -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Register_16Bit.vhd -lib work MUX_8Bit_2_to_1.vhd -lib work Detect_1.vhd -lib work DataPath.vhd 
